@@ -1,0 +1,240 @@
+{
+  "regions": [
+    {
+      "id": "bastar",
+      "name": "Bastar Forest Region",
+      "state": "Chhattisgarh",
+      "identifiers": {
+        "direction": [
+          "east",
+          "central"
+        ],
+        "terrain": [
+          "dense_forest",
+          "plateau",
+          "hills",
+          "valleys"
+        ],
+        "soil": [
+          "red_soil"
+        ],
+        "climate": [
+          "hot",
+          "humid",
+          "heavy_monsoon",
+          "mild_winter"
+        ],
+        "vegetation": [
+          "sal_forest",
+          "bamboo_forest",
+          "dense_canopy"
+        ],
+        "water_features": [
+          "rivers",
+          "large_waterfalls"
+        ],
+        "wildlife": [
+          "frequent_wildlife_presence",
+          "protected_forest"
+        ],
+        "human_presence": [
+          "tribal_dominated",
+          "weekly_haats"
+        ],
+        "connectivity": [
+          "weak_mobile_network",
+          "limited_internet"
+        ],
+        "security": [
+          "restricted_zones",
+          "night_travel_not_recommended"
+        ],
+        "sensory_cues": [
+          "earthy_forest_smell",
+          "thatched_huts"
+        ]
+      }
+    },
+    {
+      "id": "kanger_valley",
+      "name": "Kanger Valley National Park",
+      "state": "Chhattisgarh",
+      "identifiers": {
+        "direction": [
+          "east",
+          "central"
+        ],
+        "terrain": [
+          "long_narrow_valley",
+          "steep_hills",
+          "plateaus",
+          "deep_gorges"
+        ],
+        "soil": [
+          "dark_moist_forest_soil"
+        ],
+        "climate": [
+          "humid",
+          "moderate",
+          "heavy_monsoon",
+          "mild_winter"
+        ],
+        "vegetation": [
+          "dense_sal_forest",
+          "moist_deciduous",
+          "dry_deciduous"
+        ],
+        "water_features": [
+          "river_valley",
+          "waterfalls",
+          "forest_streams"
+        ],
+        "special_features": [
+          "limestone_caves",
+          "underground_caves"
+        ],
+        "wildlife": [
+          "protected_national_park",
+          "birdwatching_zone"
+        ],
+        "human_presence": [
+          "guided_tourism_only",
+          "forest_department"
+        ],
+        "connectivity": [
+          "limited_mobile_network",
+          "no_reliable_internet"
+        ],
+        "security": [
+          "permit_required",
+          "official_guide_mandatory",
+          "night_travel_prohibited"
+        ],
+        "sensory_cues": [
+          "dark_forest_shade",
+          "moist_air",
+          "forest_silence"
+        ]
+      }
+    },
+    {
+      "id": "gir_national_park",
+      "name": "Gir National Park",
+      "state": "Gujarat",
+      "identifiers": {
+        "direction": [
+          "west"
+        ],
+        "terrain": [
+          "dry_deciduous_forest",
+          "rugged_hills",
+          "rocky_ridges",
+          "plateaus"
+        ],
+        "soil": [
+          "dry_forest_soil",
+          "rocky_soil"
+        ],
+        "climate": [
+          "hot",
+          "dry",
+          "semi_arid",
+          "mild_winter"
+        ],
+        "vegetation": [
+          "teak_forest",
+          "acacia",
+          "scrubland"
+        ],
+        "water_features": [
+          "seasonal_rivers",
+          "reservoirs",
+          "dam"
+        ],
+        "wildlife": [
+          "asiatic_lions",
+          "leopards",
+          "deer",
+          "crocodiles"
+        ],
+        "human_presence": [
+          "maldhari_communities",
+          "tourism_activity"
+        ],
+        "connectivity": [
+          "good_network_in_town",
+          "patchy_inside_park"
+        ],
+        "security": [
+          "permit_required",
+          "no_night_safari",
+          "strict_rules"
+        ],
+        "sensory_cues": [
+          "dusty_trails",
+          "lion_roars",
+          "dry_air"
+        ]
+      }
+    },
+    {
+      "id": "gariyabandh",
+      "name": "Gariyabandh Forest & River Belt",
+      "state": "Chhattisgarh",
+      "identifiers": {
+        "direction": [
+          "east",
+          "south_east"
+        ],
+        "terrain": [
+          "uneven_hilly_terrain",
+          "forested_hills",
+          "river_valleys"
+        ],
+        "soil": [
+          "forest_soil",
+          "alluvial_near_rivers",
+          "mixed_red_soil"
+        ],
+        "climate": [
+          "hot",
+          "humid",
+          "heavy_monsoon",
+          "mild_winter"
+        ],
+        "vegetation": [
+          "sal_forest",
+          "teak_trees",
+          "bamboo_groves"
+        ],
+        "water_features": [
+          "major_rivers",
+          "waterfalls",
+          "artificial_dams"
+        ],
+        "wildlife": [
+          "tiger_reserve_presence",
+          "wild_buffalo_habitat",
+          "elephant_movement"
+        ],
+        "human_presence": [
+          "tribal_communities",
+          "pilgrimage_towns"
+        ],
+        "connectivity": [
+          "variable_mobile_network",
+          "weak_in_forests"
+        ],
+        "security": [
+          "wildlife_alerts",
+          "monsoon_flood_risk"
+        ],
+        "sensory_cues": [
+          "river_sounds",
+          "waterfall_roar",
+          "temple_bells"
+        ]
+      }
+    }
+  ]
+}

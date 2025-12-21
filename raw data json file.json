@@ -1,0 +1,245 @@
+{
+  "bastar": {
+    "general_information": {
+      "overview": "Tribal heartland of Chhattisgarh known for dense forests, waterfalls and rich adivasi culture centered around Jagdalpur.",
+      "religion": [
+        "Animism",
+        "Hinduism"
+      ],
+      "famous_places": [
+        "Chitrakote Falls",
+        "Tirathgarh Waterfalls",
+        "Kanger Valley National Park",
+        "Danteshwari Temple"
+      ]
+    },
+    "activities_experiences": [
+      "Tribal village visits",
+      "Waterfall trekking",
+      "Local haat markets",
+      "Wildlife observation"
+    ],
+    "accommodation_stay": [
+      "Tribal homestays",
+      "Eco-resorts",
+      "Budget hotels in Jagdalpur"
+    ],
+    "facilities_amenities": {
+      "restrooms": "Available mainly in towns and major tourist spots",
+      "cleanliness": "Moderate; better during festivals",
+      "waste_management": "Plastic-free zones near waterfalls"
+    },
+    "transport_connectivity": {
+      "transport": [
+        "Bus",
+        "Train",
+        "Taxi"
+      ],
+      "network": "Weak in forests, moderate in towns",
+      "internet": "Limited"
+    },
+    "rules_safety_awareness": {
+      "dos": [
+        "Travel during daylight",
+        "Carry ID and water",
+        "Respect tribal customs"
+      ],
+      "donts": [
+        "Avoid restricted areas",
+        "No littering",
+        "Do not photograph locals without permission"
+      ]
+    },
+    "skills_preparation": [
+      "Basic Hindi/Chhattisgarhi",
+      "Basic trekking fitness",
+      "Cultural sensitivity"
+    ],
+    "emergency_support": {
+      "police": "100",
+      "ambulance": "108",
+      "tourism": "1800-233-2114"
+    }
+  },
+  "kanger_valley": {
+    "general_information": {
+      "overview": "Long narrow forested valley with caves, waterfalls and dense sal forests.",
+      "religion": [
+        "Hinduism",
+        "Animism",
+        "Tribal Religion"
+      ],
+      "famous_places": [
+        "Tirathgarh Waterfall",
+        "Kotumsar Caves",
+        "Kailash Caves"
+      ]
+    },
+    "activities_experiences": [
+      "Guided trekking",
+      "Cave exploration",
+      "Birdwatching",
+      "Nature photography"
+    ],
+    "accommodation_stay": [
+      "Forest guest houses",
+      "Eco stays",
+      "Nearby town hotels"
+    ],
+    "facilities_amenities": {
+      "restrooms": "Limited and inconsistent",
+      "cleanliness": "Variable, crowded after festivals",
+      "waste_management": "Inconsistent plastic control"
+    },
+    "transport_connectivity": {
+      "transport": [
+        "Safari jeep",
+        "Private vehicles"
+      ],
+      "network": "Patchy",
+      "internet": "Mostly unavailable"
+    },
+    "rules_safety_awareness": {
+      "dos": [
+        "Carry permit",
+        "Follow guide",
+        "Maintain wildlife distance"
+      ],
+      "donts": [
+        "No night travel",
+        "No flash photography",
+        "No littering"
+      ]
+    },
+    "skills_preparation": [
+      "Basic fitness",
+      "Local language basics",
+      "Respect tribal customs"
+    ],
+    "emergency_support": {
+      "forest_office": "07782-228640",
+      "ambulance": "108",
+      "national": "112"
+    }
+  },
+  "gir_national_park": {
+    "general_information": {
+      "overview": "Dry deciduous forest in Gujarat and the last natural habitat of Asiatic lions.",
+      "religion": [
+        "Hinduism"
+      ],
+      "famous_places": [
+        "Devalia Safari Park",
+        "Kamleshwar Dam",
+        "Somnath Temple"
+      ]
+    },
+    "activities_experiences": [
+      "Lion safari",
+      "Birdwatching",
+      "Nature walks",
+      "Wildlife photography"
+    ],
+    "accommodation_stay": [
+      "Luxury eco-resorts",
+      "Mid-range jungle lodges",
+      "Budget hotels"
+    ],
+    "facilities_amenities": {
+      "restrooms": "Well maintained in resorts",
+      "cleanliness": "High",
+      "waste_management": "Eco-practices followed"
+    },
+    "transport_connectivity": {
+      "transport": [
+        "Road",
+        "Rail",
+        "Taxi"
+      ],
+      "network": "Good in town, weak in park",
+      "internet": "Available in resorts"
+    },
+    "rules_safety_awareness": {
+      "dos": [
+        "Follow safari rules",
+        "Wear neutral colors",
+        "Maintain silence"
+      ],
+      "donts": [
+        "No night safari",
+        "No teasing animals",
+        "No flashlights"
+      ]
+    },
+    "skills_preparation": [
+      "Basic walking fitness",
+      "Gujarati/Hindi basics",
+      "Wildlife etiquette"
+    ],
+    "emergency_support": {
+      "police": "100",
+      "ambulance": "108",
+      "park_office": "02877-285621"
+    }
+  },
+  "gariyabandh": {
+    "general_information": {
+      "overview": "Forested river district of Chhattisgarh known for Rajim pilgrimage and Udanti-Sitanadi Tiger Reserve.",
+      "religion": [
+        "Hinduism"
+      ],
+      "famous_places": [
+        "Rajim",
+        "Bhooteshwarnath",
+        "Ghatarani Waterfall"
+      ]
+    },
+    "activities_experiences": [
+      "Temple visits",
+      "Waterfall picnics",
+      "Wildlife exploration",
+      "Kayaking"
+    ],
+    "accommodation_stay": [
+      "Budget hotels",
+      "Resorts",
+      "Guest houses"
+    ],
+    "facilities_amenities": {
+      "restrooms": "Available at major sites",
+      "cleanliness": "Moderate",
+      "waste_management": "Mixed management quality"
+    },
+    "transport_connectivity": {
+      "transport": [
+        "Road",
+        "Rail",
+        "Air via Raipur"
+      ],
+      "network": "Variable",
+      "internet": "Good in towns, weak in forests"
+    },
+    "rules_safety_awareness": {
+      "dos": [
+        "Use designated dustbins",
+        "Wear non-slip footwear",
+        "Follow marked trails"
+      ],
+      "donts": [
+        "Avoid peak monsoon visits",
+        "No loud music",
+        "No unsafe selfies"
+      ]
+    },
+    "skills_preparation": [
+      "Chhattisgarhi/Hindi basics",
+      "Basic trekking fitness",
+      "Cultural respect"
+    ],
+    "emergency_support": {
+      "national": "112",
+      "police": "100",
+      "ambulance": "108"
+    }
+  }
+}
